@@ -1,2 +1,2 @@
-Badmin
+fritcher = Host
 <span class='adminooc'>Spanmin</span>
